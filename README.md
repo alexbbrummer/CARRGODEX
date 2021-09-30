@@ -16,3 +16,7 @@ The Jupyter notebook graphing_fits.ipynb was used to generate the graphs that ap
 The Jupyter notebook eigenvalue_plotting.ipynb was used to generate the graphs that appear in Figure 5.
 
 The R file barplots_success_threshold_plotting.R was used to generate the barplots that appear in Figure 6b, 6d, 6f and the graph in Figure 7.
+
+The file flow_ci_coreelation_data.csv contains measurements of xCelligence cell index and flow cytometry cell count used to establish correlation strength between these to indicators of tumor cell presence.  This data appears in Supplementary Information S1 File.
+
+The R file flow_ci_correlation_graphing.R produces the graphical and tabular analysis of corrrelation strength between xCelligence cell index and flow cytometry cell count.  These results appear in Supplementary Information S1 File.
