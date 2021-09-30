@@ -11,8 +11,8 @@ The Jupyter notebooks car_T_dex_fiting_pbt1.ipynb, car_T_dex_fiting_pbt2.ipynb, 
 
 The fit_parameters.csv contains all of the modified CARRGO model parameters, including standard errors and experimental conditions.
 
-The Jupyter notebook graphing_fits.ipynb was used to generate the graphs that appear in Figures 2, 3, 5a, 5c, 5e, and Supplementary Information S1 Fig, S2 Fig, and S3 Fig.
+The Jupyter notebook graphing_fits.ipynb was used to generate the graphs that appear in Figures 3, 4, 6a, 6c, 6e, and Supplementary Information S1 Fig, S2 Fig, and S3 Fig.
 
-The Jupyter notebook eigenvalue_plotting.ipynb was used to generate the graphs that appear in Figure 4.
+The Jupyter notebook eigenvalue_plotting.ipynb was used to generate the graphs that appear in Figure 5.
 
-The R file barplots_success_threshold_plotting.R was used to generate the barplots that appear in Figure 5b, 5d, 5f and the graph in Figure 6.
+The R file barplots_success_threshold_plotting.R was used to generate the barplots that appear in Figure 6b, 6d, 6f and the graph in Figure 7.
